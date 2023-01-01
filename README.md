@@ -8,5 +8,3 @@
 <br>
 
 <hr>
-
-[Snake animation](https://github.com/mikbhr/mikbhr/blob/output/github-contribution-grid-snake.svg)
